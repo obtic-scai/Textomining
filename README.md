@@ -7,5 +7,5 @@ Responsables:
 Motasem Alrahabi, ObTIC – Sorbonne Université
 Glenn Roe, ObTIC – Sorbonne Université
 
-[Lihttps://obtic.sorbonne-universite.fr/wp-content/uploads/2021/06/post-doc-Textomining-1.pdf(url)
+https://obtic.sorbonne-universite.fr/wp-content/uploads/2021/06/post-doc-Textomining-1.pdf
 
